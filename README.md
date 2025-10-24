@@ -139,7 +139,8 @@ Buat file `.env`:
 
 ```
 SUPABASE_URL=https://xagxefwchsyhpomavouy.supabase.co
-SUPABASE_ANON_KEY=ISI_ANON_KEY_DISINI
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhhZ3hlZndjaHN5aHBvbWF2b3V5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjEyOTMxNjgsImV4cCI6MjA3Njg2OTE2OH0.84CNQOU4l67LkBaJHy_tztopjfdqD0JfM30jQcglt9c
+PORT=3000
 PORT=3000
 ```
 
@@ -162,6 +163,7 @@ https://shoe-wash-api-three.vercel.app/api/items
 ## Repository GitHub
 
 [https://github.com/nailazza/shoe-wash-api/](https://github.com/nailazza/shoe-wash-api/)
+
 
 
 
