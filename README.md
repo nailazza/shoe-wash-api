@@ -1,9 +1,4 @@
-Siap — ini saya gabungkan seluruh isi **README** yang sudah kamu tulis + disesuaikan dengan instruksi responsi (gunakan Supabase + Vercel).
-Ini siap kamu copy langsung sebagai **1 file README.md final**.
 
----
-
-````md
 # REST API Daftar Barang Cuci Sepatu
 
 ## Deskripsi Umum
@@ -160,14 +155,13 @@ npm run dev
 
 API publik dapat diakses via:
 
-```
 https://shoe-wash-api-three.vercel.app/api/items
-```
 
----
+
 
 ## Repository GitHub
 
 [https://github.com/nailazza/shoe-wash-api/](https://github.com/nailazza/shoe-wash-api/)
+
 
 
